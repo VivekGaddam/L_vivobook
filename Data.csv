@@ -1,0 +1,21 @@
+customer_id,order_date,product_id,product_name,price,quantity,city
+1,2024-06-01,101,Shoes,50,2,New York
+2,2024-06-01,102,T-shirt,20,3,Los Angeles
+3,2024-06-02,101,Shoes,50,1,Chicago
+4,2024-06-02,103,Jeans,60,1,Chicago
+5,2024-06-03,101,Shoes,50,2,New York
+6,2024-06-03,102,T-shirt,20,2,Los Angeles
+7,2024-06-03,104,Hat,15,3,Chicago
+8,2024-06-04,103,Jeans,60,2,New York
+9,2024-06-04,101,Shoes,50,1,New York
+10,2024-06-05,104,Hat,15,1,Los Angeles
+11,2024-06-05,101,Shoes,50,3,Los Angeles
+12,2024-06-06,102,T-shirt,20,2,New York
+13,2024-06-06,103,Jeans,60,1,Chicago
+14,2024-06-06,104,Hat,15,2,Los Angeles
+15,2024-06-07,101,Shoes,50,2,New York
+16,2024-06-07,102,T-shirt,20,2,Los Angeles
+17,2024-06-07,104,Hat,15,1,Chicago
+18,2024-06-08,103,Jeans,60,1,New York
+19,2024-06-08,101,Shoes,50,3,New York
+20,2024-06-09,102,T-shirt,20,2,Los Angeles
